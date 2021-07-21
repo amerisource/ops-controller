@@ -24,3 +24,5 @@ plugins:
 - id: warnings-ng
 - id: workflow-aggregator
 - id: workflow-cps-checkpoint
+- id: pipeline-utility-steps
+- id: pipeline-stage-view
